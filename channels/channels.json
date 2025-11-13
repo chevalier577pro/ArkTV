@@ -32,5 +32,17 @@
     {"name": "HALLYPOP", "url": "https://jungotvstream.chanall.tv/jungotv/hallypop/playlist_1080p.m3u8"},
     {"name": "SCREAMFLIX", "url": "https://jungotvstream.chanall.tv/jungotv/screamflix/playlist_720p.m3u8"},
     {"name": "COMBAT GO", "url": "https://jungotvstream.chanall.tv/jungotv/combatgo/playlist_720p.m3u8"},
-    {"name":"Free-TV Playlist (France)","url":"https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"}
+    {"name":"Free-TV Playlist (France)","url":"https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"},
+    {"name": "L'Équipe", "url": "https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8"},
+    {"name": "Game One", "url": "https://viamotionhsi.netplus.ch/live/eds/gameone/browser-HLS8/gameone.m3u8"},
+    {"name": "6ter", "url": "https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8"},
+    {"name": "M6 HD", "url": "https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8"},
+    {"name": "HD1", "url": "https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8"},
+    {"name": "France 2 HD", "url": "https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd"},
+    {"name": "France 3 HD", "url": "https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd"},
+    {"name": "France 5 HD", "url": "https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd"},
+    {"name": "TMC", "url": "https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8"},
+    {"name": "France 4 HD", "url": "https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd"},
+    {"name": "Gulli", "url": "https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8"},
+    {"name": "BFMTV", "url": "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8"}
 ]
